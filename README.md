@@ -1,3 +1,4 @@
+<center>
 <h1>Hi 👋, I'm Tolga</h1>
 <p>I'm RPA & Web Developer at Veri Bilgi Merkezi (VBM)</p>
 <h2>🚀 Languages and Tools I Use</h2>
@@ -11,3 +12,4 @@
 <a target="_blank" href="https://www.svgrepo.com/show/503139/wordpress.svg" style="display: inline-block;"><img src="https://www.svgrepo.com/show/503139/wordpress.svg" alt="wordpress" width="42" height="42" /></a>
 <a target="_blank" href="https://www.svgrepo.com/show/443513/brand-uipath.svg" style="display: inline-block;"><img src="https://www.svgrepo.com/show/443513/brand-uipath.svg" alt="uipath" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a></p>
+</center>
